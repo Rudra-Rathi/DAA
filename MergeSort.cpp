@@ -89,7 +89,6 @@ int main() {
 
     cout << "Number of merge operations: " << mergeOperations << endl;
     cout << "Number of sort operations: " << sortOperations << endl;
-    cout << "Time Complexity: O(n log n)" << endl;
     
     return 0;
 }
